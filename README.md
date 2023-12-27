@@ -67,19 +67,3 @@ Always handle the file and its data responsibly, in compliance with applicable l
 
 🔌🕶️ The `SMSBOMB.txt` file: a repository of digital destinies, waiting to bridge connections across the Matrix! Unlock its potential, wield it wisely! 📡📜✨
 
-        ||
-  ______||
- / ____ o|
-| / ;; \ |
-| ______ |
-||______||
-||  D2  ||
-||______||
-|'\[--]/'|
-|  ¨''¨  |
-|  ''''  |
-|        |
-|        |
-|        |
-|________|
-
