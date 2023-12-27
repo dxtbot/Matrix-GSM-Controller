@@ -1,4 +1,5 @@
 # Matrix-GSM-Controller
+
 Matrix GSM Controller for GSM 800 USB module (SMS BOMBER)
 
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
@@ -8,7 +9,7 @@ Matrix GSM Controller for GSM 800 USB module (SMS BOMBER)
 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 
 🔧 About:
-This repository contains a Python script to control a GSM module using a terminal interface.
+This repository contains a Python script to control a GSM 800 USB module using a terminal interface.
 
 🚀 Quick Start:
 1. Connect your GSM module to your computer via the specified COM port.
